@@ -1,0 +1,67 @@
+
+html {
+    min-height: 100%;
+}
+
+body {
+    background: linear-gradient(#b5e48c, #457b9d);
+    color:white;
+    font-family: 'Times New Roman';
+    text-align: center;
+}
+
+.content{
+	padding-top: 30%;
+
+	text-align: center;
+}
+
+.textbox{
+	border-radius:10px;
+}
+.submit{
+	background-color: white;
+	border-radius: 10px;
+	height: 20px;
+
+}
+.submit:hover{
+	background-color: grey;
+	color: white;
+}
+
+.dynamicontent{
+	border-style: ridge;
+	background-color: white;
+	width:60%;
+	color:black;
+	border-radius: 20px;
+	font-size:small;
+
+
+
+}
+.dynamic{
+	text-align: center;
+	
+	padding-left: 50px
+}
+.submit1{
+	position: relative;
+	left: 80px;
+	top:-31.5px;
+	border-radius: 10px;
+	background-color: white;
+
+}
+
+.submit1:hover{
+	background-color: grey;
+	color: white;
+}
+
+
+
+
+
+
